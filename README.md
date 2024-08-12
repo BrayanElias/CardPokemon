@@ -1,4 +1,4 @@
-# React + Vite
+# PokeCard 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d2b4648e-d1fd-47f4-9edd-d7c798921ef0" alt="Macbook-Air-list-app-react-tailwind netlify app" width="65%" style="margin-right: 10px;">
